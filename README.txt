@@ -1,4 +1,3 @@
-Coursera-Machine-Learning
 
 A repo with the completed assignments from a Coursera Machine Learning Course
 
